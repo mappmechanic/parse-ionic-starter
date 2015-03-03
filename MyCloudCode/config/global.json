@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "Event-Man": {
+            "applicationId": "yvHvEkne9jgX5ld3Gc2m3X9dC6ykkZq5aAYcyXKY", 
+            "masterKey": "TuiQRNaDh5phuDBWfLqjnz1rrMI8NsstjeyAB1gZ"
+        }, 
+        "_default": {
+            "link": "Event-Man"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.3.5"
+    }
+}
